@@ -17,6 +17,12 @@ body {
     font-weight: bold;
 }
 
+.nav-bar {
+    border: 5px double lightsteelblue;
+    border-radius: 10px;
+    margin: 0 32px 0;
+}
+
 ul {
     list-style: none;
     display: flex;
@@ -35,13 +41,14 @@ a {
 .introduction {
     font-size: 36px;
     text-align: center;
-    margin: 1rem;
+    margin: 5%;
 }
 
 /* FAMILY PAGE */
 .container {
     display: flex;
     justify-content: space-evenly;
+    margin: 5% 0;
 }
 
 .profile {
@@ -58,13 +65,14 @@ a {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    margin: 5% 0;
 }
 
 /* CONTACT US PAGE */
 .contact-info {
     display: block;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 /* FOOTER */
