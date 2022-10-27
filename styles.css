@@ -39,7 +39,7 @@ a {
 }
 
 /* FAMILY PAGE */
-.parent-container, .child-container, .pet-container {
+.container {
     display: flex;
     justify-content: space-evenly;
 }
