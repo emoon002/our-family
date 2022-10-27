@@ -44,6 +44,15 @@ a {
     justify-content: space-evenly;
 }
 
+.profile {
+    text-align: center;
+}
+
+.profile-image {
+    display: flex;
+    justify-content: center;
+}
+
 /* PHOTO ALBUM PAGE */
 .gallery-container {
     display: flex;
