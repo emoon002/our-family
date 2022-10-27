@@ -52,7 +52,11 @@ a {
 }
 
 /* CONTACT US PAGE */
-
+.contact-info {
+    display: block;
+    text-align: center;
+    margin-top: 10%;
+}
 
 /* FOOTER */
 .footer {
